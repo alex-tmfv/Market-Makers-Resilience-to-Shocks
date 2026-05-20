@@ -1,7 +1,5 @@
 ## Структура проекта
 
-```
-.
 ├── src/
 │   ├── agents/
 │   │   ├── mm_strategies.py          — все MM-стратегии
@@ -32,7 +30,6 @@
 │   └── rl/                           — DQN-чекпойнты + latest_best.pt
 ├── vendor/abides/                    — ABIDES
 └── requirements.txt
-```
 
 ## Алгоритмы
 
