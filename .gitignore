@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Логи симуляций ABIDES — ~22 GB
+experiments/log/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Заметки по разработке
+notes/

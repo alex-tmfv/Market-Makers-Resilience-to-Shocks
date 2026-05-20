@@ -1,0 +1,32 @@
+Metadata-Version: 2.4
+Name: abides
+Version: 1.0.0
+Summary: Agent-Based Interactive Discrete Event Simulation
+Home-page: https://github.com/abides-sim/abides
+Author: davebyrd
+Author-email: dave@imtc.gatech.edu
+License: BSD 3-Clause License
+License-File: LICENSE.txt
+Requires-Dist: cycler
+Requires-Dist: joblib
+Requires-Dist: jsons
+Requires-Dist: kiwisolver
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: pprofile
+Requires-Dist: pyparsing
+Requires-Dist: python-dateutil
+Requires-Dist: pytz
+Requires-Dist: scipy
+Requires-Dist: seaborn
+Requires-Dist: six
+Requires-Dist: tqdm
+Requires-Dist: psutil
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary

@@ -1,0 +1,626 @@
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x153E0B040}}
+SparseMeanRevertingOracle initialization took 0:00:00.000108
+Kernel initialized: RL Training Kernel
+ep=   0 sc=stationary  R= -780.69 n=1517 |q|̄= 75.5 eps=1.000 loss=  n/a   buf= 1517 t=45s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x155383A40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000057
+Kernel initialized: RL Training Kernel
+ep=   1 sc=stationary  R=-1421.65 n=1461 |q|̄= 81.0 eps=1.000 loss=  n/a   buf= 2978 t=91s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x31A3BB940}}
+SparseMeanRevertingOracle initialization took 0:00:00.000059
+Kernel initialized: RL Training Kernel
+ep=   2 sc=stationary  R=-1217.29 n=1412 |q|̄= 71.1 eps=1.000 loss=  n/a   buf= 4390 t=138s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x17C687640}}
+SparseMeanRevertingOracle initialization took 0:00:00.000061
+Kernel initialized: RL Training Kernel
+ep=   3 sc=stationary  R= -890.49 n=1449 |q|̄= 72.1 eps=1.000 loss=  n/a   buf= 5839 t=183s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x17C687540}}
+SparseMeanRevertingOracle initialization took 0:00:00.000046
+Kernel initialized: RL Training Kernel
+ep=   4 sc=stationary  R= -913.56 n=1477 |q|̄= 82.6 eps=1.000 loss=  n/a   buf= 7316 t=229s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x155382840}}
+SparseMeanRevertingOracle initialization took 0:00:00.000069
+Kernel initialized: RL Training Kernel
+ep=   5 sc=stationary  R= -885.20 n=1394 |q|̄= 72.7 eps=0.997 loss= 50.922 buf= 8710 t=275s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x153E0AE40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000062
+Kernel initialized: RL Training Kernel
+ep=   6 sc=stationary  R= -618.49 n=1431 |q|̄= 77.8 eps=0.994 loss= 51.918 buf=10141 t=327s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x17C687D40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000062
+Kernel initialized: RL Training Kernel
+ep=   7 sc=stationary  R= -914.97 n=1446 |q|̄= 79.7 eps=0.991 loss= 51.438 buf=11587 t=378s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x153E0B040}}
+SparseMeanRevertingOracle initialization took 0:00:00.000061
+Kernel initialized: RL Training Kernel
+ep=   8 sc=stationary  R=-1686.60 n=1521 |q|̄= 85.7 eps=0.987 loss= 52.407 buf=13108 t=425s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x17BC7B740}}
+SparseMeanRevertingOracle initialization took 0:00:00.000055
+Kernel initialized: RL Training Kernel
+ep=   9 sc=stationary  R=-1180.11 n=1391 |q|̄= 70.6 eps=0.984 loss= 52.128 buf=14499 t=474s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x31905F140}}
+SparseMeanRevertingOracle initialization took 0:00:00.000057
+Kernel initialized: RL Training Kernel
+ep=  10 sc=stationary  R=-1178.63 n=1439 |q|̄= 85.0 eps=0.981 loss= 51.344 buf=15938 t=533s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x17F3EDD40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000066
+Kernel initialized: RL Training Kernel
+ep=  11 sc=stationary  R= -365.59 n=1456 |q|̄= 72.0 eps=0.978 loss= 49.829 buf=17394 t=587s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x153E0B640}}
+SparseMeanRevertingOracle initialization took 0:00:00.000058
+Kernel initialized: RL Training Kernel
+ep=  12 sc=stationary  R= -747.97 n=1494 |q|̄= 66.8 eps=0.975 loss= 52.614 buf=18888 t=674s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x17ED82F40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000067
+Kernel initialized: RL Training Kernel
+ep=  13 sc=stationary  R= -843.13 n=1436 |q|̄= 77.5 eps=0.972 loss= 50.730 buf=20324 t=736s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x156817D40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000078
+Kernel initialized: RL Training Kernel
+ep=  14 sc=stationary  R=-1244.63 n=1414 |q|̄= 72.8 eps=0.968 loss= 51.339 buf=21738 t=796s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x16BFDB840}}
+SparseMeanRevertingOracle initialization took 0:00:00.000057
+Kernel initialized: RL Training Kernel
+ep=  15 sc=stationary  R= -809.20 n=1494 |q|̄= 72.0 eps=0.965 loss= 53.209 buf=23232 t=855s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x1785F4640}}
+SparseMeanRevertingOracle initialization took 0:00:00.000058
+Kernel initialized: RL Training Kernel
+ep=  16 sc=stationary  R=-1160.04 n=1438 |q|̄= 80.5 eps=0.962 loss= 52.365 buf=24670 t=909s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x179689340}}
+SparseMeanRevertingOracle initialization took 0:00:00.000068
+Kernel initialized: RL Training Kernel
+ep=  17 sc=stationary  R= -497.64 n=1436 |q|̄= 78.9 eps=0.959 loss= 51.930 buf=26106 t=961s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x1667B0A40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000051
+Kernel initialized: RL Training Kernel
+ep=  18 sc=stationary  R= -729.69 n=1400 |q|̄= 73.5 eps=0.956 loss= 52.173 buf=27506 t=1007s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x33D25C640}}
+SparseMeanRevertingOracle initialization took 0:00:00.000042
+Kernel initialized: RL Training Kernel
+ep=  19 sc=stationary  R=-1129.51 n=1440 |q|̄= 86.6 eps=0.953 loss= 51.988 buf=28946 t=1052s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x10691AC40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000040
+Kernel initialized: RL Training Kernel
+ep=  20 sc=stationary  R= -470.87 n=1440 |q|̄= 82.9 eps=0.949 loss= 49.538 buf=30386 t=1099s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x16CB2F540}}
+SparseMeanRevertingOracle initialization took 0:00:00.000050
+Kernel initialized: RL Training Kernel
+ep=  21 sc=stationary  R=-1170.49 n=1424 |q|̄= 92.4 eps=0.946 loss= 50.855 buf=31810 t=1146s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x33D097440}}
+SparseMeanRevertingOracle initialization took 0:00:00.000098
+Kernel initialized: RL Training Kernel
+ep=  22 sc=stationary  R=-1105.48 n=1468 |q|̄= 69.8 eps=0.943 loss= 54.417 buf=33278 t=1191s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x16C2D7740}}
+SparseMeanRevertingOracle initialization took 0:00:00.000041
+Kernel initialized: RL Training Kernel
+ep=  23 sc=stationary  R= -884.90 n=1489 |q|̄= 73.9 eps=0.940 loss= 50.901 buf=34767 t=1237s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x33D3E3240}}
+SparseMeanRevertingOracle initialization took 0:00:00.000042
+Kernel initialized: RL Training Kernel
+ep=  24 sc=stationary  R= -646.84 n=1461 |q|̄= 75.1 eps=0.937 loss= 51.514 buf=36228 t=1282s
+
+  [summary ep=25] last 25 eps:
+    mean R =  -939.75   mean |q|̄ =  77.1
+    action distribution:
+    γ=1e-08  ####################################      14.1%
+    γ=5e-08  ######################################    14.7%
+    γ=1e-07  ###################################       13.7%
+    γ=5e-07  #####################################     14.2%
+    γ=1e-06  ####################################      14.1%
+    γ=5e-06  ########################################  15.3%
+    γ=1e-05  ####################################      13.9%
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x155663840}}
+SparseMeanRevertingOracle initialization took 0:00:00.000041
+Kernel initialized: RL Training Kernel
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x31E455B40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000232
+Kernel initialized: RL Training Kernel
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-12, 'megashock_mean': 100.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x31C5A6F40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000248
+Kernel initialized: RL Training Kernel
+  [eval ep=25] mean_R = -2726.09 ★ NEW BEST
+    stationary : R=-2252.05  |q|̄=110.3  PnL_eq=   -6416c
+    drift_down : R=-3837.63  |q|̄=151.6  PnL_eq=   -8896c
+    megashock  : R=-2088.60  |q|̄=105.4  PnL_eq=   -5953c
+
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x31BAEC640}}
+SparseMeanRevertingOracle initialization took 0:00:00.000045
+Kernel initialized: RL Training Kernel
+ep=  25 sc=stationary  R=-1126.34 n=1482 |q|̄= 77.0 eps=0.933 loss= 52.646 buf=37710 t=1464s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x154B18E40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000057
+Kernel initialized: RL Training Kernel
+ep=  26 sc=stationary  R= -554.43 n=1399 |q|̄= 78.4 eps=0.930 loss= 50.559 buf=39109 t=1510s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x10691AC40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000055
+Kernel initialized: RL Training Kernel
+ep=  27 sc=stationary  R= -603.72 n=1493 |q|̄= 76.7 eps=0.927 loss= 51.471 buf=40602 t=1557s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x31F25F740}}
+SparseMeanRevertingOracle initialization took 0:00:00.000044
+Kernel initialized: RL Training Kernel
+ep=  28 sc=stationary  R= -789.50 n=1453 |q|̄= 84.5 eps=0.924 loss= 52.886 buf=42055 t=1603s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x31E455B40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000050
+Kernel initialized: RL Training Kernel
+ep=  29 sc=stationary  R= -272.30 n=1392 |q|̄= 76.1 eps=0.921 loss= 51.814 buf=43447 t=1648s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x31C5A7C40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000043
+Kernel initialized: RL Training Kernel
+ep=  30 sc=stationary  R=-1345.73 n=1422 |q|̄= 80.7 eps=0.918 loss= 52.263 buf=44869 t=1694s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x155660840}}
+SparseMeanRevertingOracle initialization took 0:00:00.000055
+Kernel initialized: RL Training Kernel
+ep=  31 sc=stationary  R= -478.53 n=1383 |q|̄= 77.6 eps=0.914 loss= 51.632 buf=46252 t=1739s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x31EF86F40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000055
+Kernel initialized: RL Training Kernel
+ep=  32 sc=stationary  R=-1607.68 n=1419 |q|̄= 81.3 eps=0.911 loss= 52.242 buf=47671 t=1784s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x318D4BD40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000044
+Kernel initialized: RL Training Kernel
+ep=  33 sc=stationary  R=-1334.53 n=1417 |q|̄= 75.5 eps=0.908 loss= 50.850 buf=49088 t=1830s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x10691AC40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000057
+Kernel initialized: RL Training Kernel
+ep=  34 sc=stationary  R=-1092.57 n=1432 |q|̄= 66.0 eps=0.905 loss= 52.523 buf=50000 t=1876s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x318D49940}}
+SparseMeanRevertingOracle initialization took 0:00:00.000053
+Kernel initialized: RL Training Kernel
+ep=  35 sc=stationary  R=-1075.69 n=1422 |q|̄= 70.6 eps=0.902 loss= 51.543 buf=50000 t=1921s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x10691AC40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000049
+Kernel initialized: RL Training Kernel
+ep=  36 sc=stationary  R= -607.02 n=1454 |q|̄= 73.7 eps=0.899 loss= 51.467 buf=50000 t=1967s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34A3EF740}}
+SparseMeanRevertingOracle initialization took 0:00:00.000041
+Kernel initialized: RL Training Kernel
+ep=  37 sc=stationary  R=-1415.54 n=1370 |q|̄= 81.8 eps=0.895 loss= 50.629 buf=50000 t=2011s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x169E78C40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000047
+Kernel initialized: RL Training Kernel
+ep=  38 sc=stationary  R= -638.85 n=1516 |q|̄= 75.1 eps=0.892 loss= 52.736 buf=50000 t=2056s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x338ECEF40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000042
+Kernel initialized: RL Training Kernel
+ep=  39 sc=stationary  R=-1029.03 n=1478 |q|̄= 74.5 eps=0.889 loss= 52.314 buf=50000 t=2103s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34AAF6540}}
+SparseMeanRevertingOracle initialization took 0:00:00.000080
+Kernel initialized: RL Training Kernel
+ep=  40 sc=stationary  R=-1121.39 n=1431 |q|̄= 72.5 eps=0.886 loss= 52.556 buf=50000 t=2150s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x155383040}}
+SparseMeanRevertingOracle initialization took 0:00:00.000055
+Kernel initialized: RL Training Kernel
+ep=  41 sc=stationary  R=-1274.39 n=1409 |q|̄= 81.5 eps=0.883 loss= 54.437 buf=50000 t=2197s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x31F012D40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000054
+Kernel initialized: RL Training Kernel
+ep=  42 sc=stationary  R= -351.83 n=1415 |q|̄= 78.9 eps=0.880 loss= 51.733 buf=50000 t=2244s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x155381340}}
+SparseMeanRevertingOracle initialization took 0:00:00.000057
+Kernel initialized: RL Training Kernel
+ep=  43 sc=stationary  R= -661.69 n=1361 |q|̄= 80.6 eps=0.877 loss= 53.070 buf=50000 t=2294s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x3394C3340}}
+SparseMeanRevertingOracle initialization took 0:00:00.000052
+Kernel initialized: RL Training Kernel
+ep=  44 sc=stationary  R= -641.43 n=1507 |q|̄= 85.1 eps=0.873 loss= 52.155 buf=50000 t=2340s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x153E0B240}}
+SparseMeanRevertingOracle initialization took 0:00:00.000043
+Kernel initialized: RL Training Kernel
+ep=  45 sc=stationary  R=-1600.66 n=1373 |q|̄= 81.1 eps=0.870 loss= 49.915 buf=50000 t=2385s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34B152C40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000046
+Kernel initialized: RL Training Kernel
+ep=  46 sc=stationary  R=-1097.07 n=1402 |q|̄= 71.3 eps=0.867 loss= 51.249 buf=50000 t=2431s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x348EBF940}}
+SparseMeanRevertingOracle initialization took 0:00:00.000045
+Kernel initialized: RL Training Kernel
+ep=  47 sc=stationary  R= -943.86 n=1465 |q|̄= 79.2 eps=0.864 loss= 51.586 buf=50000 t=2478s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x339A7BB40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000043
+Kernel initialized: RL Training Kernel
+ep=  48 sc=stationary  R= -664.71 n=1459 |q|̄= 66.2 eps=0.861 loss= 50.982 buf=50000 t=2524s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x16DA5D140}}
+SparseMeanRevertingOracle initialization took 0:00:00.000046
+Kernel initialized: RL Training Kernel
+ep=  49 sc=stationary  R= -891.78 n=1422 |q|̄= 69.7 eps=0.858 loss= 51.716 buf=50000 t=2569s
+
+  [summary ep=50] last 25 eps:
+    mean R =  -928.81   mean |q|̄ =  76.6
+    action distribution:
+    γ=1e-08  ########################################  15.5%
+    γ=5e-08  ##################################        13.3%
+    γ=1e-07  ##################################        13.3%
+    γ=5e-07  #######################################   15.3%
+    γ=1e-06  ##################################        13.3%
+    γ=5e-06  #####################################     14.4%
+    γ=1e-05  ######################################    14.9%
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x339A7BD40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000040
+Kernel initialized: RL Training Kernel
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x349B47940}}
+SparseMeanRevertingOracle initialization took 0:00:00.001189
+Kernel initialized: RL Training Kernel
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-12, 'megashock_mean': 100.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x339A7B140}}
+SparseMeanRevertingOracle initialization took 0:00:00.002023
+Kernel initialized: RL Training Kernel
+  [eval ep=50] mean_R = -1071.24 ★ NEW BEST
+    stationary : R=-1316.58  |q|̄= 64.8  PnL_eq=   -8253c
+    drift_down : R= -878.33  |q|̄= 61.7  PnL_eq=   -4003c
+    megashock  : R=-1018.81  |q|̄= 66.4  PnL_eq=   -4770c
+
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x349B47540}}
+SparseMeanRevertingOracle initialization took 0:00:00.000050
+Kernel initialized: RL Training Kernel
+ep=  50 sc=stationary  R=-1082.89 n=1420 |q|̄= 67.9 eps=0.854 loss= 54.043 buf=50000 t=2758s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x339A7BE40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000055
+Kernel initialized: RL Training Kernel
+ep=  51 sc=stationary  R=-1111.02 n=1485 |q|̄= 72.3 eps=0.851 loss= 53.082 buf=50000 t=2806s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x3394C0240}}
+SparseMeanRevertingOracle initialization took 0:00:00.000066
+Kernel initialized: RL Training Kernel
+ep=  52 sc=stationary  R=-1128.44 n=1430 |q|̄= 70.4 eps=0.848 loss= 50.922 buf=50000 t=2854s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x348EBE340}}
+SparseMeanRevertingOracle initialization took 0:00:00.000045
+Kernel initialized: RL Training Kernel
+ep=  53 sc=stationary  R=-1392.51 n=1441 |q|̄= 79.0 eps=0.845 loss= 52.578 buf=50000 t=2903s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34C289E40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000054
+Kernel initialized: RL Training Kernel
+ep=  54 sc=stationary  R= -891.88 n=1379 |q|̄= 71.9 eps=0.842 loss= 55.147 buf=50000 t=2949s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34B254740}}
+SparseMeanRevertingOracle initialization took 0:00:00.000056
+Kernel initialized: RL Training Kernel
+ep=  55 sc=stationary  R= -967.81 n=1475 |q|̄= 81.3 eps=0.839 loss= 54.092 buf=50000 t=2996s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x3475C1640}}
+SparseMeanRevertingOracle initialization took 0:00:00.000040
+Kernel initialized: RL Training Kernel
+ep=  56 sc=stationary  R=-1649.63 n=1396 |q|̄= 72.6 eps=0.835 loss= 52.159 buf=50000 t=3043s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x10691AC40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000043
+Kernel initialized: RL Training Kernel
+ep=  57 sc=stationary  R= -689.79 n=1369 |q|̄= 74.2 eps=0.832 loss= 53.787 buf=50000 t=3090s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34DEE4040}}
+SparseMeanRevertingOracle initialization took 0:00:00.000043
+Kernel initialized: RL Training Kernel
+ep=  58 sc=stationary  R=-1039.00 n=1457 |q|̄= 72.1 eps=0.829 loss= 51.982 buf=50000 t=3138s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34DF05A40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000043
+Kernel initialized: RL Training Kernel
+ep=  59 sc=stationary  R= -671.09 n=1418 |q|̄= 70.7 eps=0.826 loss= 52.443 buf=50000 t=3185s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34ED2FC40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000140
+Kernel initialized: RL Training Kernel
+ep=  60 sc=stationary  R=-1270.22 n=1471 |q|̄= 80.2 eps=0.823 loss= 52.315 buf=50000 t=3231s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x16CC8BE40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000048
+Kernel initialized: RL Training Kernel
+ep=  61 sc=stationary  R= -713.06 n=1373 |q|̄= 66.2 eps=0.820 loss= 51.731 buf=50000 t=3278s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34DF04540}}
+SparseMeanRevertingOracle initialization took 0:00:00.000070
+Kernel initialized: RL Training Kernel
+ep=  62 sc=stationary  R=-1537.51 n=1447 |q|̄= 85.5 eps=0.816 loss= 51.711 buf=50000 t=3327s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34E36A040}}
+SparseMeanRevertingOracle initialization took 0:00:00.000074
+Kernel initialized: RL Training Kernel
+ep=  63 sc=stationary  R=-1250.94 n=1488 |q|̄= 76.3 eps=0.813 loss= 53.901 buf=50000 t=3373s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x153E0BD40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000060
+Kernel initialized: RL Training Kernel
+ep=  64 sc=stationary  R= -729.77 n=1400 |q|̄= 70.9 eps=0.810 loss= 53.862 buf=50000 t=3422s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x348673140}}
+SparseMeanRevertingOracle initialization took 0:00:00.000053
+Kernel initialized: RL Training Kernel
+ep=  65 sc=stationary  R=-1218.89 n=1433 |q|̄= 80.8 eps=0.807 loss= 50.652 buf=50000 t=3470s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34E368240}}
+SparseMeanRevertingOracle initialization took 0:00:00.000048
+Kernel initialized: RL Training Kernel
+ep=  66 sc=stationary  R= -853.01 n=1419 |q|̄= 74.7 eps=0.804 loss= 51.641 buf=50000 t=3517s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x16E53D840}}
+SparseMeanRevertingOracle initialization took 0:00:00.000049
+Kernel initialized: RL Training Kernel
+ep=  67 sc=stationary  R= -772.22 n=1457 |q|̄= 78.0 eps=0.800 loss= 54.360 buf=50000 t=3564s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x153E0AE40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000051
+Kernel initialized: RL Training Kernel
+ep=  68 sc=stationary  R= -849.62 n=1463 |q|̄= 70.3 eps=0.797 loss= 52.588 buf=50000 t=3612s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x348272D40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000043
+Kernel initialized: RL Training Kernel
+ep=  69 sc=stationary  R= -918.69 n=1474 |q|̄= 74.7 eps=0.794 loss= 51.064 buf=50000 t=3662s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x165F0F740}}
+SparseMeanRevertingOracle initialization took 0:00:00.000045
+Kernel initialized: RL Training Kernel
+ep=  70 sc=stationary  R= -663.75 n=1510 |q|̄= 65.5 eps=0.791 loss= 54.513 buf=50000 t=3709s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x10691AC40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000069
+Kernel initialized: RL Training Kernel
+ep=  71 sc=stationary  R= -688.18 n=1405 |q|̄= 68.4 eps=0.788 loss= 50.815 buf=50000 t=3756s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34F3F2940}}
+SparseMeanRevertingOracle initialization took 0:00:00.000051
+Kernel initialized: RL Training Kernel
+ep=  72 sc=stationary  R=-1079.79 n=1405 |q|̄= 66.1 eps=0.785 loss= 51.944 buf=50000 t=3805s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34F3F3940}}
+SparseMeanRevertingOracle initialization took 0:00:00.000048
+Kernel initialized: RL Training Kernel
+ep=  73 sc=stationary  R= -993.90 n=1460 |q|̄= 65.6 eps=0.781 loss= 51.523 buf=50000 t=3853s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34E175840}}
+SparseMeanRevertingOracle initialization took 0:00:00.000046
+Kernel initialized: RL Training Kernel
+ep=  74 sc=stationary  R= -513.71 n=1545 |q|̄= 69.5 eps=0.778 loss= 52.686 buf=50000 t=3900s
+
+  [summary ep=75] last 25 eps:
+    mean R =  -987.09   mean |q|̄ =  73.0
+    action distribution:
+    γ=1e-08  ########################                  12.1%
+    γ=5e-08  ########################                  11.9%
+    γ=1e-07  #########################                 12.5%
+    γ=5e-07  ############################              13.8%
+    γ=1e-06  ##############################            15.0%
+    γ=5e-06  ########################################  19.4%
+    γ=1e-05  ###############################           15.2%
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x10691AC40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000042
+Kernel initialized: RL Training Kernel
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x16F6E3940}}
+SparseMeanRevertingOracle initialization took 0:00:00.001358
+Kernel initialized: RL Training Kernel
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-12, 'megashock_mean': 100.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x3471BD840}}
+SparseMeanRevertingOracle initialization took 0:00:00.001332
+Kernel initialized: RL Training Kernel
+  [eval ep=75] mean_R = -1150.53
+    stationary : R=-1251.35  |q|̄= 56.9  PnL_eq=   -8931c
+    drift_down : R=-1159.74  |q|̄= 67.4  PnL_eq=   -6283c
+    megashock  : R=-1040.49  |q|̄= 59.7  PnL_eq=   -6115c
+
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x16F6E3540}}
+SparseMeanRevertingOracle initialization took 0:00:00.000065
+Kernel initialized: RL Training Kernel
+ep=  75 sc=stationary  R=-1257.81 n=1460 |q|̄= 71.7 eps=0.775 loss= 55.020 buf=50000 t=4090s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34E98EB40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000065
+Kernel initialized: RL Training Kernel
+ep=  76 sc=stationary  R=-1007.85 n=1379 |q|̄= 68.2 eps=0.772 loss= 50.508 buf=50000 t=4138s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x169B9D140}}
+SparseMeanRevertingOracle initialization took 0:00:00.000065
+Kernel initialized: RL Training Kernel
+ep=  77 sc=stationary  R= -398.01 n=1439 |q|̄= 72.9 eps=0.769 loss= 52.496 buf=50000 t=4186s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x10691AC40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000049
+Kernel initialized: RL Training Kernel
+ep=  78 sc=stationary  R= -357.40 n=1424 |q|̄= 74.5 eps=0.766 loss= 52.703 buf=50000 t=4232s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x169B9D140}}
+SparseMeanRevertingOracle initialization took 0:00:00.000054
+Kernel initialized: RL Training Kernel
+ep=  79 sc=stationary  R= -690.02 n=1419 |q|̄= 63.6 eps=0.762 loss= 53.194 buf=50000 t=4280s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x3471BD840}}
+SparseMeanRevertingOracle initialization took 0:00:00.000052
+Kernel initialized: RL Training Kernel
+ep=  80 sc=stationary  R= -540.58 n=1428 |q|̄= 61.9 eps=0.759 loss= 52.848 buf=50000 t=4328s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x169B9D140}}
+SparseMeanRevertingOracle initialization took 0:00:00.000064
+Kernel initialized: RL Training Kernel
+ep=  81 sc=stationary  R= -918.89 n=1428 |q|̄= 68.8 eps=0.756 loss= 52.813 buf=50000 t=4375s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x3714A7440}}
+SparseMeanRevertingOracle initialization took 0:00:00.000051
+Kernel initialized: RL Training Kernel
+ep=  82 sc=stationary  R= -983.60 n=1460 |q|̄= 69.2 eps=0.753 loss= 50.761 buf=50000 t=4423s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x169B9E240}}
+SparseMeanRevertingOracle initialization took 0:00:00.000063
+Kernel initialized: RL Training Kernel
+ep=  83 sc=stationary  R= -278.46 n=1434 |q|̄= 65.2 eps=0.750 loss= 51.317 buf=50000 t=4470s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34E177140}}
+SparseMeanRevertingOracle initialization took 0:00:00.000052
+Kernel initialized: RL Training Kernel
+ep=  84 sc=stationary  R= -527.49 n=1418 |q|̄= 68.7 eps=0.747 loss= 51.574 buf=50000 t=4518s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x169B9E240}}
+SparseMeanRevertingOracle initialization took 0:00:00.000066
+Kernel initialized: RL Training Kernel
+ep=  85 sc=stationary  R= -638.32 n=1382 |q|̄= 70.6 eps=0.744 loss= 52.096 buf=50000 t=4568s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34E98EB40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000060
+Kernel initialized: RL Training Kernel
+ep=  86 sc=stationary  R= -943.98 n=1441 |q|̄= 75.3 eps=0.740 loss= 52.240 buf=50000 t=4616s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x169B9D140}}
+SparseMeanRevertingOracle initialization took 0:00:00.000054
+Kernel initialized: RL Training Kernel
+ep=  87 sc=stationary  R= -140.27 n=1422 |q|̄= 59.8 eps=0.737 loss= 49.086 buf=50000 t=4664s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x10691AC40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000049
+Kernel initialized: RL Training Kernel
+ep=  88 sc=stationary  R= -861.19 n=1418 |q|̄= 80.2 eps=0.734 loss= 49.840 buf=50000 t=4731s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x359D4F640}}
+SparseMeanRevertingOracle initialization took 0:00:00.000060
+Kernel initialized: RL Training Kernel
+ep=  89 sc=stationary  R= -569.71 n=1412 |q|̄= 64.8 eps=0.731 loss= 52.430 buf=50000 t=4779s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x10691AC40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000045
+Kernel initialized: RL Training Kernel
+ep=  90 sc=stationary  R= -758.58 n=1458 |q|̄= 66.2 eps=0.728 loss= 52.167 buf=50000 t=4827s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x169B9E240}}
+SparseMeanRevertingOracle initialization took 0:00:00.000070
+Kernel initialized: RL Training Kernel
+ep=  91 sc=stationary  R= -569.84 n=1441 |q|̄= 72.6 eps=0.725 loss= 53.686 buf=50000 t=4875s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34BF67A40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000048
+Kernel initialized: RL Training Kernel
+ep=  92 sc=stationary  R= -801.79 n=1320 |q|̄= 73.0 eps=0.721 loss= 54.098 buf=50000 t=4923s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x169B9D140}}
+SparseMeanRevertingOracle initialization took 0:00:00.000054
+Kernel initialized: RL Training Kernel
+ep=  93 sc=stationary  R=-1091.43 n=1415 |q|̄= 93.8 eps=0.718 loss= 51.350 buf=50000 t=4982s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x3471BD840}}
+SparseMeanRevertingOracle initialization took 0:00:00.000071
+Kernel initialized: RL Training Kernel
+ep=  94 sc=stationary  R= -944.80 n=1412 |q|̄= 63.5 eps=0.715 loss= 54.252 buf=50000 t=5032s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x169B9D140}}
+SparseMeanRevertingOracle initialization took 0:00:00.000061
+Kernel initialized: RL Training Kernel
+ep=  95 sc=stationary  R=-1119.89 n=1420 |q|̄= 77.3 eps=0.712 loss= 53.288 buf=50000 t=5080s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x3471BD840}}
+SparseMeanRevertingOracle initialization took 0:00:00.000059
+Kernel initialized: RL Training Kernel
+ep=  96 sc=stationary  R= -274.12 n=1392 |q|̄= 61.3 eps=0.709 loss= 51.600 buf=50000 t=5128s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x169B9D140}}
+SparseMeanRevertingOracle initialization took 0:00:00.000064
+Kernel initialized: RL Training Kernel
+ep=  97 sc=stationary  R= -254.88 n=1417 |q|̄= 70.8 eps=0.706 loss= 51.141 buf=50000 t=5177s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x34E98EB40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000043
+Kernel initialized: RL Training Kernel
+ep=  98 sc=stationary  R= -472.05 n=1397 |q|̄= 64.4 eps=0.702 loss= 51.234 buf=50000 t=5227s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x348A0F040}}
+SparseMeanRevertingOracle initialization took 0:00:00.000054
+Kernel initialized: RL Training Kernel
+ep=  99 sc=stationary  R= -975.54 n=1432 |q|̄= 60.3 eps=0.699 loss= 51.846 buf=50000 t=5274s
+
+  [summary ep=100] last 25 eps:
+    mean R =  -695.06   mean |q|̄ =  69.5
+    action distribution:
+    γ=1e-08  #######################                   11.4%
+    γ=5e-08  ##########################                12.9%
+    γ=1e-07  #####################                     10.6%
+    γ=5e-07  #########################                 12.3%
+    γ=1e-06  ################################          15.7%
+    γ=5e-06  ########################################  19.5%
+    γ=1e-05  ####################################      17.6%
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x348A0CD40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000046
+Kernel initialized: RL Training Kernel
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x35B849A40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000991
+Kernel initialized: RL Training Kernel
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-12, 'megashock_mean': 100.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x153E0B740}}
+SparseMeanRevertingOracle initialization took 0:00:00.000346
+Kernel initialized: RL Training Kernel
+  [eval ep=100] mean_R =  -954.89 ★ NEW BEST
+    stationary : R= -970.87  |q|̄= 51.1  PnL_eq=   -6672c
+    drift_down : R=-1085.59  |q|̄= 58.3  PnL_eq=   -6909c
+    megashock  : R= -808.20  |q|̄= 49.2  PnL_eq=   -5221c
+
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x358713140}}
+SparseMeanRevertingOracle initialization took 0:00:00.000054
+Kernel initialized: RL Training Kernel
+ep= 100 sc=stationary  R= -336.63 n=1404 |q|̄= 69.1 eps=0.696 loss= 49.909 buf=50000 t=5470s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x358B25340}}
+SparseMeanRevertingOracle initialization took 0:00:00.000050
+Kernel initialized: RL Training Kernel
+ep= 101 sc=stationary  R= -872.80 n=1489 |q|̄= 74.4 eps=0.693 loss= 52.985 buf=50000 t=5517s
+SparseMeanRevertingOracle computing initial fundamental value for A_USD
+SparseMeanRevertingOracle initialized for symbols {'A_USD': {'r_bar': 1000, 'kappa': 1.67e-16, 'sigma_s': 0, 'fund_vol': 1e-08, 'megashock_lambda_a': 2.77778e-18, 'megashock_mean': 10.0, 'megashock_var': 5.0, 'random_state': RandomState(MT19937) at 0x10691AC40}}
+SparseMeanRevertingOracle initialization took 0:00:00.000057
+Kernel initialized: RL Training Kernel
